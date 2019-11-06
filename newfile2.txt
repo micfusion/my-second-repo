@@ -1,0 +1,41 @@
+commit c098c856218a9fe56d2a96272a4d6bccf1929b48
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 12:10:54 2019 -0700
+
+    lol wussup homie
+
+commit a312d455424a1843f219edd98bdce16b33f09a9e
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 12:08:22 2019 -0700
+
+    HI YOU DUMB FUCK
+
+commit e8edda7d8bb2709f8011b7cfc5e314de9570d47f
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 12:06:52 2019 -0700
+
+    WE GOT THE GITIGNORED
+
+commit 06a81a088d2e7d88cd7f9d99ca5a59d6f4f037ee
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 11:58:59 2019 -0700
+
+    shit.txt
+
+commit de00def6b146ea405ebae6efd399e2b558a3f5c1
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 11:43:19 2019 -0700
+
+    file1.txt
+
+commit fcc8c7148ce0eb158933e9382053f193a20f8f1c
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 11:42:00 2019 -0700
+
+    shit.txt
+
+commit 14a6937a5f15a8e6368178fa41afb76965fa2abd
+Author: micfusion <micfusion7@gmail.com>
+Date:   Sat Nov 2 11:39:18 2019 -0700
+
+    fuck you
